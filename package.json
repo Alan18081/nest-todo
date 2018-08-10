@@ -1,0 +1,11 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd server && npm i && cd ../client && npm i"
+  },
+  "author": "Alan",
+  "license": "ISC"
+}
